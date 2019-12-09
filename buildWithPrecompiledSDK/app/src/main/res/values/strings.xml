@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mambo</string>
+    <string name="label_accelerometer">Accelerometer: %1$.2f m\\s2</string>
+</resources>
